@@ -1,4 +1,4 @@
-# Retro Shooter v1.0
+# Retro Shooter 
 
 A classic 2D arcade space shooter game built using C++ and the SFML 3 library. 
 
